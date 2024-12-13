@@ -107,5 +107,5 @@ Start merging your Notion DBs today with this powerful and efficient tool!
 
 ---
 
-For more information on how to merge Notion Database entries, check out our [documentation](https://developers.notion.com/docs) or [contact us](mailto:support@notionmerger.com).
+For more information on how to merge Notion Database entries, check out our [documentation](https://developers.notion.com/docs) or contact me
 
